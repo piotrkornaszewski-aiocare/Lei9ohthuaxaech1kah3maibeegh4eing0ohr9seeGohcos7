@@ -41,6 +41,7 @@
 1. Skup się na podanych wymaganiach. Przeczytaj je ponownie jeżeli czujesz taką potrzebę
 2. Nie oceniamy tylko kodu, tylko rozwiązanie jako całość (sposób pracy z kodem, commity, issues)
 3. Api powinno obsługiwać odpowiednie nagłówki (201, 404, itp)
+4. Wykorzystaj znane Ci wzorce projektowe
 
 
 ## Dodatkowe punkty:
